@@ -1,5 +1,5 @@
 {
-.appVersion = "1343";
+.appVersion = "1356";
 DisplayStrings = (
 "AÆ/a.sc/ae.sc"
 );
@@ -128884,6 +128884,10 @@ value = 100;
 {
 name = "Save as TrueType";
 value = 1;
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 interpolationCustom = -1;
@@ -128903,6 +128907,10 @@ value = 200;
 },
 {
 name = "Save as TrueType";
+value = 1;
+},
+{
+name = "Export STAT Table";
 value = 1;
 }
 );
@@ -128927,6 +128935,10 @@ name = "Rename Glyphs";
 value = (
 "apple.rvrn=apple"
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 interpolationCustom = -1;
@@ -128952,6 +128964,14 @@ value = (
 "curvedStemParagraphSignOrnament.rvrn=curvedStemParagraphSignOrnament",
 "paragraph.rvrn=paragraph"
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
+},
+{
+name = "Elidable STAT Axis Value Name";
+value = wght;
 }
 );
 interpolationCustom = -1;
@@ -128976,6 +128996,10 @@ value = (
 "curvedStemParagraphSignOrnament.rvrn=curvedStemParagraphSignOrnament",
 "paragraph.rvrn=paragraph"
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 interpolationCustom = -1;
@@ -129006,6 +129030,10 @@ value = (
 "paragraph.rvrn=paragraph",
 "peso.rvrn=peso"
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 interpolationCustom = -1;
@@ -129038,6 +129066,10 @@ value = (
 "paragraph.rvrn=paragraph",
 "peso.rvrn=peso"
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 interpolationCustom = -1;
@@ -129077,6 +129109,10 @@ value = (
 "cent.tf.rvrn=cent.tf",
 "peso.rvrn=peso"
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 interpolationCustom = -1;
@@ -129115,6 +129151,10 @@ value = (
 "cent.tf.rvrn=cent.tf",
 "peso.rvrn=peso"
 );
+},
+{
+name = "Export STAT Table";
+value = 1;
 }
 );
 interpolationCustom = -1;
